@@ -16,11 +16,10 @@ Crie uma solução que explore o conceito de Padrões de Projeto na prática
 
 
 
-
+______________________________________________________________________________________________________
 
 SOBRE O PROJETO :notebook:
-
----------
+______________________________________________________________________________________________________
 
  Projeto Spring Boot gerado via Spring Initializr.
  Os seguintes módulos foram selecionados: Spring Data JPA, Spring Web, H2 Database e OpenFeign
@@ -29,8 +28,9 @@ SOBRE O PROJETO :notebook:
 
 
 
-PADRÕES DE PROJETOS IMPLEMENTADOS :coffee:
+______________________________________________________________________________________________________
 
+PADRÕES DE PROJETOS IMPLEMENTADOS :coffee:
 ______________________________________________________________________________________________________
 
 **SINGLETON** - Permite a criação de uma única instância de uma classe e fornecer um modo para recuperá-la.
@@ -43,10 +43,10 @@ ________________________________________________________________________________
 
 
 
+______________________________________________________________________________________________________
 
 SOBRE A AUTORIA DO CÓDIGO :woman_technologist:
-
-----------------
+______________________________________________________________________________________________________
 
 **Fernanda Cardinaly** 
 
