@@ -27,6 +27,8 @@ SOBRE O PROJETO :notebook:
 
 
 
+
+
 PADRÕES DE PROJETOS IMPLEMENTADOS :coffee:
 
 ______________________________________________________________________________________________________
